@@ -1,0 +1,53 @@
+name: ipl
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.10
+
+  # Development
+  - black
+  - isort
+  - flake8
+  - conda-forge::pre-commit
+
+  # pytorch
+  - pytorch
+  - pytorch-cuda=11.7
+  - torchvision
+  - torchtext
+  - torchaudio
+
+  # NP Family
+  - numpy
+  - scipy
+  - scikit-image
+  - numba # For Robosuite
+
+  # IO
+  - imageio
+  - pillow
+  - pyyaml
+  - cloudpickle
+  - h5py
+  - absl-py
+  - pyparsing
+
+  # Plotting
+  - tensorboard
+  - pandas
+  - matplotlib
+  - seaborn
+
+  # Other
+  - pytest
+  - tqdm
+  - future
+
+  - pip
+  - pip:
+      - gym==0.23.1
+      - mujoco-py<2.2,>=2.1
+      - git+https://github.com/rlworkgroup/metaworld.git@master#egg=metaworld
+      - git+https://github.com/Farama-Foundation/d4rl@master#egg=d4rl

@@ -1,143 +1,26 @@
-absl-py @ file:///croot/absl-py_1714140470852/work
-aiohttp @ file:///croot/aiohttp_1715108769648/work
-aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
-async-timeout @ file:///croot/async-timeout_1703096998144/work
-attrs @ file:///croot/attrs_1695717823297/work
-black @ file:///croot/black_1712698501521/work
-blinker @ file:///croot/blinker_1696539051175/work
-Bottleneck @ file:///croot/bottleneck_1707864210935/work
-Brotli @ file:///croot/brotli-split_1714483155106/work
-cachetools @ file:///croot/cachetools_1713977085444/work
-certifi @ file:///croot/certifi_1720453481653/work/certifi
-cffi @ file:///croot/cffi_1714483155441/work
-cfgv @ file:///croot/cfgv_1694505959159/work
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
-click @ file:///croot/click_1698129812380/work
-cloudpickle @ file:///croot/cloudpickle_1683040006038/work
-contourpy @ file:///croot/contourpy_1700583582875/work
-cryptography @ file:///croot/cryptography_1714660666131/work
-cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
-Cython==3.0.10
-D4RL @ git+https://github.com/Farama-Foundation/d4rl@71a9549f2091accff93eeff68f1f3ab2c0e0a288
-distlib @ file:///croot/distlib_1714716998232/work
-dm-control==1.0.14
-dm-env==1.6
-dm-tree==0.1.8
-docker-pycreds==0.4.0
-exceptiongroup @ file:///croot/exceptiongroup_1706031385326/work
-Farama-Notifications==0.0.4
-fasteners==0.19
-filelock @ file:///croot/filelock_1700591183607/work
-flake8 @ file:///croot/flake8_1708965256870/work
-fonttools @ file:///croot/fonttools_1713551344105/work
-frozenlist @ file:///croot/frozenlist_1698702560391/work
-fsspec @ file:///croot/fsspec_1714461537038/work
-future @ file:///croot/future_1677599870788/work
-gitdb==4.0.11
-GitPython==3.1.43
-glfw==2.7.0
-gmpy2 @ file:///tmp/build/80754af9/gmpy2_1645455533097/work
-google-auth @ file:///croot/google-auth_1715111149956/work
-google-auth-oauthlib @ file:///opt/conda/conda-bld/google-auth-oauthlib_1660687784486/work
-grpcio @ file:///home/conda/feedstock_root/build_artifacts/grpc-split_1713388282847/work
-gym==0.26.0
-gym-notices==0.0.8
--e git+ssh://git@github.com/thangquyeenf/gym_boss_envs.git@17d216c124538257d0eca36d234f1a47a0f54b35#egg=gym_boss
--e git+https://github.com/Farama-Foundation/gym-examples@9a59496d266b83c8c6b3311b150f46030aca92fc#egg=gym_examples
-gymnasium==0.29.1
-h5py @ file:///croot/h5py_1715094721489/work
-identify @ file:///opt/conda/conda-bld/identify_1663193176610/work
-idna @ file:///croot/idna_1714398848350/work
-imagecodecs @ file:///croot/imagecodecs_1695064943445/work
-imageio @ file:///croot/imageio_1707247282708/work
-iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
-isort @ file:///tmp/build/80754af9/isort_1628603791788/work
-Jinja2 @ file:///croot/jinja2_1706733616596/work
-kiwisolver @ file:///croot/kiwisolver_1672387140495/work
-labmaze==1.0.6
-lazy_loader @ file:///croot/lazy_loader_1695850097191/work
-llvmlite @ file:///croot/llvmlite_1706910704562/work
-lxml==5.2.2
-Markdown @ file:///croot/markdown_1671541909495/work
-MarkupSafe @ file:///croot/markupsafe_1704205993651/work
-matplotlib @ file:///croot/matplotlib-suite_1713336378214/work
-mccabe @ file:///opt/conda/conda-bld/mccabe_1644221741721/work
-metaworld @ git+https://github.com/rlworkgroup/metaworld.git@fb7ee00eeb01b9f97f6c481b782bcd1f828078e6
-mjrl @ git+https://github.com/aravindr93/mjrl@3871d93763d3b49c4741e6daeaebbc605fe140dc
-mpmath @ file:///croot/mpmath_1690848262763/work
-mujoco==2.3.7
-mujoco-py==2.1.2.14
-multidict @ file:///croot/multidict_1701096859099/work
-mypy-extensions @ file:///croot/mypy_extensions_1695130926492/work
-networkx @ file:///croot/networkx_1690561992265/work
-nodeenv @ file:///opt/conda/conda-bld/nodeenv_1663181097182/work
-numba @ file:///home/conda/feedstock_root/build_artifacts/numba_1711475179870/work
-numexpr @ file:///croot/numexpr_1696515281613/work
-numpy @ file:///croot/numpy_and_numpy_base_1708638617955/work/dist/numpy-1.26.4-cp310-cp310-linux_x86_64.whl#sha256=ce136f308f566617937abac6c8f280bd61b41c12ab7eb7d8784c5795c5be477b
-oauthlib @ file:///croot/oauthlib_1679489621486/work
-packaging @ file:///croot/packaging_1710807400464/work
-pandas @ file:///croot/pandas_1709590491089/work/dist/pandas-2.2.1-cp310-cp310-linux_x86_64.whl#sha256=af0f237a7f090add6f15eb4b5d0fd2d9d8ded4cfe6979b18563580353c113c9f
-pathspec @ file:///croot/pathspec_1674681560568/work
-pillow @ file:///croot/pillow_1714398848491/work
-platformdirs @ file:///croot/platformdirs_1692205439124/work
-pluggy @ file:///tmp/build/80754af9/pluggy_1648024709248/work
-ply==3.11
-pre_commit @ file:///home/conda/feedstock_root/build_artifacts/pre-commit_1715432773135/work
-protobuf==4.25.3
-psutil==6.0.0
-pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
-pyasn1-modules==0.2.8
-pybullet==3.2.6
-pycodestyle @ file:///croot/pycodestyle_1701821051884/work
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
-pyflakes @ file:///croot/pyflakes_1708962956225/work
-pygame==2.1.0
-PyJWT @ file:///croot/pyjwt_1715094751094/work
-PyOpenGL==3.1.7
-pyOpenSSL @ file:///croot/pyopenssl_1708380408460/work
-pyparsing @ file:///opt/conda/conda-bld/pyparsing_1661452539315/work
-PyQt5==5.15.10
-PyQt5-sip @ file:///croot/pyqt-split_1698769088074/work/pyqt_sip
-PySocks @ file:///home/builder/ci_310/pysocks_1640793678128/work
-pytest @ file:///croot/pytest_1690474690005/work
-python-dateutil @ file:///croot/python-dateutil_1716495738603/work
-pytz @ file:///croot/pytz_1713974312559/work
-PyYAML @ file:///croot/pyyaml_1698096049011/work
-requests @ file:///croot/requests_1707355572290/work
-requests-oauthlib==1.3.0
--e git+https://github.com/jhejna/inverse-preference-learning.git@8037b84c57c10383cc7b628a39c4f66b7e16358b#egg=research
--e git+https://github.com/ARISE-Initiative/robomimic.git@8c23c696260ffb2709b95cd868cf3fc6480afeba#egg=robomimic
--e git+https://github.com/ARISE-Initiative/robosuite.git@d9baa17d5328d7b0ec15ecda54c76c61bb983124#egg=robosuite
-rsa @ file:///tmp/build/80754af9/rsa_1614366226499/work
-scikit-image @ file:///croot/scikit-image_1707346116243/work
-scipy @ file:///croot/scipy_1714069776893/work/dist/scipy-1.13.0-cp310-cp310-linux_x86_64.whl#sha256=50e14a8ace83222c8fa7504051d10c8269862820dc3728f51bd72a5f588a2213
-seaborn @ file:///croot/seaborn_1673479180098/work
-sentry-sdk==2.11.0
-setproctitle==1.3.3
-Shimmy==2.0.0
-sip @ file:///croot/sip_1698675935381/work
-six @ file:///tmp/build/80754af9/six_1644875935023/work
-smmap==5.0.1
-stable_baselines3==2.3.2
-sympy @ file:///croot/sympy_1701397643339/work
-tensorboard @ file:///home/builder/mesters/opt/envs/tensorflow/conda-bld/tensorboard_1682445826165/work/tensorboard-2.12.1-py3-none-any.whl
-tensorboard-data-server @ file:///croot/tensorboard-data-server_1681498183723/work/tensorboard_data_server-0.7.0-py3-none-manylinux2014_x86_64.whl
-tensorboard-plugin-wit @ file:///home/builder/tkoch/workspace/tensorflow/tensorboard-plugin-wit_1658918494740/work/tensorboard_plugin_wit-1.8.1-py3-none-any.whl
-termcolor==2.4.0
-tifffile @ file:///croot/tifffile_1695107451082/work
-tomli @ file:///opt/conda/conda-bld/tomli_1657175507142/work
-torch @ file:///home/conda/feedstock_root/build_artifacts/libtorch_1716589106635/work
-torchaudio==2.3.0
-torchtext==0.18.0
-torchvision==0.18.0
-tornado @ file:///croot/tornado_1696936946304/work
-tqdm @ file:///croot/tqdm_1716395931952/work
-typing_extensions @ file:///croot/typing_extensions_1715268824938/work
-tzdata @ file:///croot/python-tzdata_1690578112552/work
-ukkonen @ file:///opt/conda/conda-bld/ukkonen_1663174535639/work
-unicodedata2 @ file:///croot/unicodedata2_1713212950228/work
-urllib3 @ file:///croot/urllib3_1715635851070/work
-virtualenv @ file:///croot/virtualenv_1714719490047/work
-wandb==0.17.5
-Werkzeug @ file:///croot/werkzeug_1716533313107/work
-yarl @ file:///croot/yarl_1701105127787/work
+torch
+torchvision
+gym
+stable_baselines3
+tqdm
+numpy
+torchtext
+torchaudio
+scipy
+cikit-image
+numba
+wandb
+tensorboard
+pandas
+matplotlib
+seaborn
+imageio
+pillow
+pyyaml
+cloudpickle
+h5py
+absl-py
+pyparsing
+mujoco-py<2.2,>=2.1
+git+https://github.com/rlworkgroup/metaworld.git@master#egg=metaworld
+git+https://github.com/Farama-Foundation/d4rl@master#egg=d4rl
